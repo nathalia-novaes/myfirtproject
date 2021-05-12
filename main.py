@@ -1,5 +1,5 @@
-a = 3
-b = 5
+a = 6
+b = 3
+c = 10
 soma = a + b
-print(soma)
 print('a soma é', soma)
